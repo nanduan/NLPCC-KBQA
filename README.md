@@ -13,9 +13,7 @@ booktitle="Natural Language Understanding and Intelligent Applications",
 year="2016",
 publisher="Springer International Publishing",
 pages="942--948",
-isbn="978-3-319-50496-4"
-}
-}</code></pre>
+isbn="978-3-319-50496-4"}</code></pre>
 
 
 
