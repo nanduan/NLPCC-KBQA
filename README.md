@@ -5,19 +5,34 @@ People frequently asked me "where can I download" the NLPCC-KBQA datesets used i
 - **nlpcc2016.kbqa.test, nlpcc2017.kbqa.test, nlpcc2018.kbqa.test**. These 3 files are used as the KBQA testsets in NLPCC 2016, 2017 and 2018, respectively. Please note that, the 2017 testset doesn't provide the knowledge triple infor for each test instance.
 
 Please cite the follwing papers when you use the datasets:
-@InProceedings{10.1007/978-3-319-50496-4_89,
+
+<pre><code>@InProceedings{10.1007/978-3-319-50496-4_89,
 author="Duan, Nan",
-editor="Lin, Chin-Yew
-and Xue, Nianwen
-and Zhao, Dongyan
-and Huang, Xuanjing
-and Feng, Yansong",
 title="Overview of the NLPCC-ICCPOL 2016 Shared Task: Open Domain Chinese Question Answering",
 booktitle="Natural Language Understanding and Intelligent Applications",
 year="2016",
 publisher="Springer International Publishing",
-address="Cham",
 pages="942--948",
-abstract="In this paper, we give the overview of the open domain Question Answering (or open domain QA) shared task in the NLPCC-ICCPOL 2016. We first review the background of QA, and then describe two open domain Chinese QA tasks in this year's NLPCC-ICCPOL, including the construction of the benchmark datasets and the evaluation metrics. The evaluation results of submissions from participating teams are presented in the experimental part.",
 isbn="978-3-319-50496-4"
+}
+}</code></pre>
+
+
+
+@InProceedings{10.1007/978-3-319-73618-1_86,
+author="Duan, Nan
+and Tang, Duyu",
+editor="Huang, Xuanjing
+and Jiang, Jing
+and Zhao, Dongyan
+and Feng, Yansong
+and Hong, Yu",
+title="Overview of the NLPCC 2017 Shared Task: Open Domain Chinese Question Answering",
+booktitle="Natural Language Processing and Chinese Computing",
+year="2018",
+publisher="Springer International Publishing",
+address="Cham",
+pages="954--961",
+abstract="In this paper, we give the overview of the open domain Question Answering (or open domain QA) shared task in the NLPCC 2017. We first review the background of QA, and then describe two open domain Chinese QA tasks in this year's NLPCC, including the construction of the benchmark datasets and the evaluation metrics. The evaluation results of submissions from participating teams are presented in the experimental part.",
+isbn="978-3-319-73618-1"
 }
